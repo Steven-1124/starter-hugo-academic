@@ -7,21 +7,21 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research Experience
+  - name: Research
     url: '#research_experience'
     weight: 20
   - name: Professional Experience
     url: '#intern_experience'
-    weight: 30
-  - name: Research Seminars
-    url: '#research_seminars'
-    weight: 40
-  - name: Extra-curricular
-    url: '#extra_study'
     weight: 50
+  - name: Seminars
+    url: '#research_seminars'
+    weight: 30
+  # - name: Extra-curricular
+    # url: '#extra_study'
+    # weight: 50
   - name: Honors
     url: '#honors_and_awards'
-    weight: 60
+    weight: 40
   - name: Activities
     url: '#activities_and_leaderships'
     weight: 70

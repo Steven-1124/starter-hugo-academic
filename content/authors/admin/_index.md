@@ -6,7 +6,7 @@ title: Yanxuan WU (Steven)
 superuser: true
 
 # Role/position/tagline
-role: final year undergraduate
+role: Final Year Undergraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,11 +18,11 @@ bio: I am interested in many topics in different context including supply chain,
 
 # Interests to show in About widget
 interests:
-  - Supply Chain
+  - Behavioral Operations
+  - Supply Chain Management
   - Product Development
   - Two-sided Market
-  - Blockchain
-  - OM-Market, OM-Finance, OM-AI
+  - OM-Market Interface
 
 # Education to show in About widget
 education:
@@ -72,6 +72,10 @@ email: 'wyxsjtuer@gmail.com'
 highlight_name: true
 ---
 
-I am Yanxuan Wu(吴焱煊) from Shanghai Jiao Tong University, a final year student majoring Electrical Engineering(EE) and minoring Finance. My research interest is combining game theoretical model and empirical methods to research how business run and people make decisions with behavioural factors incorporated. I am interested in many topics in different context including supply chain, product development, two-sided market, blockchain, platform, OM-Market, OM-Finance, OM-AI.
+I am Yanxuan Wu (吴焱煊) from Shanghai Jiao Tong University (SJTU), a final year undergraduate majoring Electrical Engineering and minoring Finance.
+
+My research interest is combining game theoretical model and empirical methods to research how businesses run and people make decisions considering behavioural factors.
+
+I am curious about topics such as BOM, supply chain management, product development, two-sided market, blockchain, platform, OM-Market interface, OM-AI.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wyx_cv_0927.pdf" "newtab" >}}resumé{{< /staticref >}}.

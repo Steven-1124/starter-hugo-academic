@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 50
 
 title: Professional Experience
 subtitle:
@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Analyst intern
-    company: Guo Sheng Securities, Electrical Engineering and New Energy Department
+    company: Guo Sheng Securities, Electrical Vehicle and New Energy Team
     # company_url: 'https://dynamics.microsoft.com/en-us/'
     # company_logo: Microsoft_logo
     location: Shanghai, China
