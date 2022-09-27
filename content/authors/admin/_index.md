@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yanxuan WU (Steven)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: final year undergraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shanghai Jiao Tong University
+    url: https://en.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in many topics in different context including supply chain, product development, two-sided market, blockchain, platform, OM-Market, OM-Finance, OM-AI.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Supply Chain
+  - Product Development
+  - Two-sided Market
+  - Blockchain
+  - OM-Market, OM-Finance, OM-AI
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.Eng. in Electrical Engineering
+      institution: Shanghai Jiao Tong university
+      year: 2023
+    - course: B.Sc. in Finance
+      institution: Shanghai Jiao Tong university
+      year: 2023
+    - course: Exchange Student in Arts and Science
+      institution: University College London
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +44,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: mailto:wyxsjtuer@gmail.com
+  # - icon: twitter
+    # icon_pack: fab
+    # link: https://twitter.com/GeorgeCushen
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    # icon_pack: fas
+    # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/yanxuan-wu
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/stevenwu0201?r=nametag
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -64,14 +66,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'wyxsjtuer@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Yanxuan Wu(吴焱煊) from Shanghai Jiao Tong University, a final year student majoring Electrical Engineering(EE) and minoring Finance. My research interest is combining game theoretical model and empirical methods to research how business run and people make decisions with behavioural factors incorporated. I am interested in many topics in different context including supply chain, product development, two-sided market, blockchain, platform, OM-Market, OM-Finance, OM-AI.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wyx_cv_0927.pdf" "newtab" >}}resumé{{< /staticref >}}.
