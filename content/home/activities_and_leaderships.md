@@ -18,7 +18,7 @@ design:
 ## 2021
 -	Participant in Youth Club, United Nations Development Programme
 - Member of Champion Team in Warwick-SJTU Global Challenge
-- Distinguished Deputy Director at Human Resource Center, Hult Prize China
+- Volunteer at Human Resource Center, Hult Prize China
 
 ## 2020
 - Student Representative at Undergraduate Committee, SJTU

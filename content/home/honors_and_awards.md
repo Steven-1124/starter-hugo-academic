@@ -13,7 +13,7 @@ design:
 
 # Honors and Awards
 ## 2021
--	Honored Student in Shanghai Jiao Tong University (Univesity, Top 2%)
+-	Honor Student in Shanghai Jiao Tong University (Univesity, Top 2%)
 - Ren Yuan Electric Scholarship (University, Top 3%)
 - The Second Prize in Fanhai International Collidoscope Challenge (International, Top 1%)
 ## 2020

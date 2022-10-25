@@ -30,8 +30,8 @@ experience:
     date_start: '2022-07-01'
     # date_end: '2023-09-01'
     description: |2-
-      <font size='4'> "Contract Design for Vertical Joint Investment under Demand Uncertainty" with [_Pro. Yaozhong Wu_](https://bizfaculty.nus.edu.sg/faculty-details/?profId=161) from NUS</font>
-        - In an emerging market (i.e., electrical vehicle), the demand may grow fast though with uncertainty and capacity may be limited, under which circumstance manufactures may stretch operation to materials through joint investment with suppliers. Besides cost and revenue sharing, the partner manufacture is always given priorities: priority ordering (order can be satisfied in the first place) and price discount (wholesale price should be lower than market price). We apply game theory to research the contract under different market settings (price, cost, demand) and try to propose a fair and profitable contract under demand uncertainty.
+      <font size='4'> "Vertical Joint Investment under Capacity Limitation and Demand Uncertainty" with [_Pro. Yaozhong Wu_](https://bizfaculty.nus.edu.sg/faculty-details/?profId=161) from NUS</font>
+        - We study the joint investment between a supplier (S) and one manufacture (M1) of the two (M1, M2), who sell to separate markets with uniform demand. Besides share of cost and revenue, there is “preferential strategy”, which means S would give M1 either order priority (order satisfied first) or price discount (discount market price) or both. We analyze the optimal joint investment strategy, which mainly concerns the share of cost and revenue and the preferential strategy. The optimal strategy can be characterized by market settings (cost, price, demand).
 
   - title: Capacity Expansion (Game Theory, Behavior)
     # company: advised by [_Pro. Zhihong Chen_](https://www.acem.sjtu.edu.cn/en/faculty/chenzhihong.html) from [Shanghai Jiao Tong University](https://www.acem.sjtu.edu.cn/en/)
@@ -41,11 +41,12 @@ experience:
     date_start: '2021-04-01'
     # date_end: '2022-09-01'
     description: |2-
-      <font size='4'>"Capacity Expansion Strategy in a Growing Oligopoly with Financial Constraints Based on Scenario Analysis" with [_Pro. Zhihong Chen_](https://www.acem.sjtu.edu.cn/en/faculty/chenzhihong.html) from SJTU</font>
-        - Modeled the capacity decision under financial constraints based on different price-demand scenarios.
-        - Assigned probabilities to scenarios to describe the uncertainty and modified the probability to capture the uncertainty of uncertainty, simulating that in reality, companies may not be informed of future price-demand and can be misled by competitors, securities and customers.
-        - Designing a game for managers to play with different market settings and strategies.
-        - Will incorporate behavioral factors inspired by managers‘ performance to research the mechanism behind winning strategy.
+      <font size='4'>"Adaptive Risk Preference and Strategy in Capacity Expansion under Price and Demand Uncertainty" with [_Pro. Zhihong Chen_](https://www.acem.sjtu.edu.cn/en/faculty/chenzhihong.html) from SJTU</font>
+        -	Set out six price-demand scenarios with probabilities assigned and six available capacity expansion strategies.
+        -	Built a suggestion system which outputs several indexes such as the expected profit and standard deviation of a specific capacity strategy.
+        -	Plan to conduct an experiment where managers choose strategy based on our suggestions and learn from the competition results.
+        -	Plan to research whether and how the risk preference of a manger adaptively changes and analyze the possible winning strategy.
+
 
   - title: Corporate Social Responsibility (Empirical)
     # company: advised by [_Pro. Zucheng Zhou_](https://www.acem.sjtu.edu.cn/en/faculty/zhouzucheng.html) from [Shanghai Jiao Tong University](https://www.acem.sjtu.edu.cn/en/)
@@ -55,10 +56,10 @@ experience:
     date_start: '2021-09-01'
     date_end: '2022-09-01'
     description: |2-
-      <font size='4'>"Impacts of Personal Background on Managers’ View about External Environment for CSR Implementation" with [_Pro. Zucheng Zhou_](https://www.acem.sjtu.edu.cn/en/faculty/zhouzucheng.html) from SJTU</font>
-        - Applied regression, clustering and hypothesis test to analyze the data collected from MBA students across China and found that managers who work longer and more senior are less optimistic as well as males are generally less than females.
-        - Analyzed mechanisms behind the results from multiple disciplines such as psychology and sociology.
-        - Gave implications for companies to form a more efficient CSR group as well as for scholars to consider the inevitable bias in manager’s view about enterprise external environment in a right way.
+      <font size='4'>"Relationship between Manager’s Personal Background and the Evaluation of External Environment for CSR Implementation" with [_Pro. Zucheng Zhou_](https://www.acem.sjtu.edu.cn/en/faculty/zhouzucheng.html) from SJTU</font>
+        - Applied two multiple linear regressions, with and without control variables, to research the relationship between personal background such as age and the evaluation of external environment, based on the data collected from MBA students across China.
+        - Analyzed the underlying mechanisms from the perspective of work experience, tolerance, forgiveness and anchor bias.
+        - Gave implications for companies to recruit from different backgrounds to form the CSR department with staff’s attitudes towards the external environment balanced as well as for scholars to reduce bias in a right way when sampling people’s view about the external environment.
 
   - title: Image Process and Classification (Machine Learning)
     # company: advised by [_Pro. Colin Tan_](https://www.comp.nus.edu.sg/cs/people/ctank/) from [National University of Singapore](https://www.comp.nus.edu.sg/)
@@ -68,9 +69,9 @@ experience:
     date_end: '2022-08-01'
     description: |2-
       <font size='4'>"Drowsy Driving Detection under Different Circumstances with Convolutional Neural Networks (CNN)" with [_Pro. Colin Tan_](https://www.comp.nus.edu.sg/cs/people/ctank/) from NUS</font>
-        - Developed an algorithm based on Convolutional Neural Networks (CNN) to detect the drowsiness of driver with nearly 95% accuracy under several circumstances (dark or bright, traffic jammed or not, head up or down).
-        - Collected data with detectors, transferred over Message Queueing Telemetry Transport (MQTT), RESTful APIs and stored in SQL databases.
-        - Built a global web server, on which we applied our algorithm and transfer the results back to instruct actuators to remind the driver.
+        - Developed the algorithm based on CNN to detect drowsiness with nearly 95% accuracy under different circumstances such as dark or bright.
+        - Built the backend classification server that performed the algorithm to handle the data and communicated data between detectors and actuators.
+        - Transferred data over Message Queueing Telemetry Transport (MQTT), RESTful APIs and stored in SQL databases.
 design:
   columns: '2'
 ---

@@ -22,29 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Analyst intern
-    company: Guo Sheng Securities, Electrical Vehicle and New Energy Team
+  - title: Guo Sheng Securities
+    company: Analyst intern, Electrical Engineering and New Energy Department
     # company_url: 'https://dynamics.microsoft.com/en-us/'
     # company_logo: Microsoft_logo
     location: Shanghai, China
     date_start: '2021-07-01'
     date_end: '2021-08-01'
     description: |2-
-        * Independently researched the supply chain of electrical vehicle (EV), analyzed competition patterns and wrote 15,000 words in-depth reports.
-        * Built a database using Excel to track the production and sales of EVs around the world.
-        * Efficiently wrote insightful comments on the latest issues to update our customers, formed opinions about the industry or some typical companies to inform the public and coded meetings and interviews, etc., with a total of more than 100,000 words.
+        * Independently researched the competition in each market across the supply chain of electrical vehicle (EV) industry.
+        * Built a database to track and applied linear regression to predict the production and sales of EVs around the world.
+        * Wrote insightful comments on the latest issues to inform our company customers, formed opinions about the industry or some typical companies to inform the public and coded meetings and interviews, etc., with a total of more than 100,000 words.
 
-  - title: Leader of Intern group
-    company: Taixing Government, Organization Department
+  - title: Taixing Government, Organization Department
+    company: Leader of Intern group
     # company_url: 'https://www.risingwave-labs.com/'
     # company_logo: rwicon
     location: Jiangsu, China
     date_start: '2020-07-01'
     date_end: '2022-08-01'
     description: |2-
-      - Led the intern group comprising over 100 students and assisted them to conduct work smoothly and efficiently.
-      - Analyzed the performance of local branches of communist party and proposed a revolutionary plan to improve their work.
-      - Organized summer camps for primary school students whose parents do not work in their home city.
+      - Led the intern group comprising over 100 students from over 20 local government branches.
+      - Analyzed the performance of local branches of communist party and give suggestions on how to improve their work.
+      - Organized summer camps for children whose parents work in other cities.
 
 design:
   columns: '2'

@@ -20,8 +20,8 @@ bio: I am interested in many topics in different context including supply chain,
 interests:
   - Behavioral Operations
   - Supply Chain Management
-  - Product Development
-  - Two-sided Market
+  - Corporate Social Responsibility
+  - Application of Blockchain
   - OM-Market Interface
 
 # Education to show in About widget
@@ -74,8 +74,8 @@ highlight_name: true
 
 I am Yanxuan Wu (吴焱煊) from Shanghai Jiao Tong University (SJTU), a final year undergraduate majoring Electrical Engineering and minoring Finance.
 
-My research interest is combining game theoretical model and empirical methods to research how businesses run and people make decisions considering behavioural factors.
+I am interested in applying game theoretical modeling and empirical methods to research topics with behavioral factors incorporated.
 
-I am curious about topics such as BOM, supply chain management, product development, two-sided market, blockchain, platform, OM-Market interface, OM-AI.
+Specifically, I am looking forward to exploring subfields such as behavioral operations (human-algorithm interaction, risk preference), social operation management (corporate social responsibility), supply chain management, applied blockchain and so on.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wyx_cv_0927.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wyx_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
