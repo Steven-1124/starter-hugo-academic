@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Yanxuan WU (Steven)
+title: Yanxuan WU (Steve)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Final Year Undergraduate
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,15 +14,13 @@ organizations:
     url: https://en.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in many topics in different context including supply chain, product development, two-sided market, blockchain, platform, OM-Market, OM-Finance, OM-AI.
+bio: I am interested in many AI topics in different context such as workplace (primary), medical and so on.
 
 # Interests to show in About widget
 interests:
-  - Behavioral Operations
-  - Supply Chain Management
+  - Economics of AI
+  - AI in Human Resource Management
   - Corporate Social Responsibility
-  - Application of Blockchain
-  - OM-Market Interface
 
 # Education to show in About widget
 education:
