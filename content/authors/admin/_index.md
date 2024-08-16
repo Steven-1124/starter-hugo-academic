@@ -72,10 +72,8 @@ email: 'wyxsjtuer@gmail.com'
 highlight_name: true
 ---
 
-I am Yanxuan Wu (吴焱煊) from Shanghai Jiao Tong University (SJTU), a final year undergraduate majoring Electrical Engineering and minoring Finance.
+I am Yanxuan Wu (吴焱煊). I have been working as a data scientist at Moseeker since I got my bachelor's degree of Electrical Engineering and of Finance(minor) from Shanghai Jiao Tong University (SJTU) in June 2023.
 
-I am interested in applying game theoretical modeling and empirical methods to research topics with behavioral factors incorporated.
-
-Specifically, I am looking forward to exploring subfields such as behavioral operations (human-algorithm interaction, risk preference), social operation management (corporate social responsibility), supply chain management, applied blockchain and so on.
+I am interested in economics of AI and AI-human Interaction, especially in the workplace.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wyx_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
