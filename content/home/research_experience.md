@@ -22,31 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Joint Investment/Venture (Game Theory)
-    # company: advised by [_Pro. Yaozhongwu_](https://bizfaculty.nus.edu.sg/faculty-details/?profId=161) from [National University of Singapore](https://bizfaculty.nus.edu.sg)
-    # company_url: ''
-    # company_logo: NUS
-    location: Singapore
-    date_start: '2022-07-01'
-    # date_end: '2023-09-01'
-    description: |2-
-      <font size='4'> "Vertical Joint Investment under Capacity Limitation and Demand Uncertainty" with [_Pro. Yaozhong Wu_](https://bizfaculty.nus.edu.sg/faculty-details/?profId=161) from NUS</font>
-        - We study the joint investment between a supplier (S) and one manufacture (M1) of the two (M1, M2), who sell to separate markets with uniform demand. Besides share of cost and revenue, there is “preferential strategy”, which means S would give M1 either order priority (order satisfied first) or price discount (discount market price) or both. We analyze the optimal joint investment strategy, which mainly concerns the share of cost and revenue and the preferential strategy. The optimal strategy can be characterized by market settings (cost, price, demand).
-
-  - title: Capacity Expansion (Game Theory, Behavior)
-    # company: advised by [_Pro. Zhihong Chen_](https://www.acem.sjtu.edu.cn/en/faculty/chenzhihong.html) from [Shanghai Jiao Tong University](https://www.acem.sjtu.edu.cn/en/)
-    # company_url: ''
-    # company_logo: sjtu
-    location: Shanghai, China
-    date_start: '2021-04-01'
-    # date_end: '2022-09-01'
-    description: |2-
-      <font size='4'>"Adaptive Risk Preference and Strategy in Capacity Expansion under Price and Demand Uncertainty" with [_Pro. Zhihong Chen_](https://www.acem.sjtu.edu.cn/en/faculty/chenzhihong.html) from SJTU</font>
-        -	Set out six price-demand scenarios with probabilities assigned and six available capacity expansion strategies.
-        -	Built a suggestion system which outputs several indexes such as the expected profit and standard deviation of a specific capacity strategy.
-        -	Plan to conduct an experiment where managers choose strategy based on our suggestions and learn from the competition results.
-        -	Plan to research whether and how the risk preference of a manger adaptively changes and analyze the possible winning strategy.
-
 
   - title: Corporate Social Responsibility (Empirical)
     # company: advised by [_Pro. Zucheng Zhou_](https://www.acem.sjtu.edu.cn/en/faculty/zhouzucheng.html) from [Shanghai Jiao Tong University](https://www.acem.sjtu.edu.cn/en/)
