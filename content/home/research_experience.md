@@ -29,7 +29,7 @@ experience:
     # company_logo: sjtu
     location: Remote
     date_start: '2023-06-01'
-    date_end: '2025-02-06'
+    # date_end: '2025-02-06'
     description: |2-
       <font size='4'>"Influencer Selection with MMOE" with [_Prof. Shunyuan Zhang_](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1175206) from Harvard Business School and [_Prof. Xitong Li_](https://sites.google.com/view/xitong-li/home) from HEC, Paris.</font>
         -	Improved Multi-Gate Mixture-of-Experts (MMOE) algorithm, based on the incentive mechanism of influencer behavior and interactions between marketing goals (reputation, revenue, acceptance), increasing the revenue prediction performance by over 20%.
