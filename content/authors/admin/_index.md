@@ -16,7 +16,6 @@ superuser: true
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests span various topics in economics and design of technology, focusing on human-technology interaction and technology innovation process. I use methodologies including data analysis, mathematical modeling, machine learning, experimental design, and simulation. Most recently, I work on: (1) AI hiring, focusing on the use and design of AI interview; (2) Economics of technology market, focusing on open-source community’s role in innovation.
 
-
 # Interests to show in About widget
 interests:
   - Economics of AI
