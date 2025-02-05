@@ -10,7 +10,7 @@ active: false
 # Order that this section appears on the page.
 weight: 50
 
-title: 'Extra-curricular Study'
+title: 'Extra Study'
 subtitle:
 
 # Date format for experience
