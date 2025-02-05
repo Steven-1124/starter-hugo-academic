@@ -27,14 +27,16 @@ experience:
     # company: advised by [_Prof. Shunyuan Zhang_](https://www.acem.sjtu.edu.cn/en/faculty/zhouzucheng.html) from [Shanghai Jiao Tong University](https://www.acem.sjtu.edu.cn/en/)
     # company_url: ''
     # company_logo: sjtu
-    location: Shanghai, China
-    date_start: '2021-09-01'
-    date_end: '2022-09-01'
+    location: Remote
+    date_start: '2023-06-01'
+    date_end: 'ongoing'
     description: |2-
-      <font size='4'>"Relationship between Manager’s Personal Background and the Evaluation of External Environment for CSR Implementation" with [_Pro. Zucheng Zhou_](https://www.acem.sjtu.edu.cn/en/faculty/zhouzucheng.html) from SJTU</font>
-        - Applied two multiple linear regressions, with and without control variables, to research the relationship between personal background such as age and the evaluation of external environment, based on the data collected from MBA students across China.
-        - Analyzed the underlying mechanisms from the perspective of work experience, tolerance, forgiveness and anchor bias.
-        - Gave implications for companies to recruit from different backgrounds to form the CSR department with staff’s attitudes towards the external environment balanced as well as for scholars to reduce bias in a right way when sampling people’s view about the external environment.
+      <font size='4'>"Influencer Selection with MMOE" with [_Prof. Shunyuan Zhang_](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1175206) from Harvard Business School and [_Prof. Xitong Li_](https://sites.google.com/view/xitong-li/home) from HEC, Paris.</font>
+      -	Improved Multi-Gate Mixture-of-Experts (MMOE) algorithm, based on the incentive mechanism of influencer behavior and interactions between marketing goals (reputation, revenue, acceptance), increasing the revenue prediction performance by over 20%.
+    	- Explored the underlying mechanisms of multi-task learning models, based on literatures and regression analysis, identifying model-relevant factors such as the gating mechanism, data-relevant factors such as data sparsity, and feature-relevant factors such as latent relevance.
+      - Embedded dynamic weighting algorithm (GradNorm) into MMOE to dynamically tune the weights of different tasks during the training process, increasing the model performance by over 200% over a highly unbalanced and sparse dataset.
+      - Examined topic modeling algorithms (BerTopic, LDA etc.), implemented multimodal BerTopic model to cluster millions of posts (images and texts), optimized the topic representation, achieving a balanced performance on different metrics (coherence, topic overlap etc.).
+
 
   - title: Image Process and Classification (Machine Learning)
     # company: advised by [_Pro. Colin Tan_](https://www.comp.nus.edu.sg/cs/people/ctank/) from [National University of Singapore](https://www.comp.nus.edu.sg/)
