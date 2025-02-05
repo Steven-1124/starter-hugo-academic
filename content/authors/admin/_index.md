@@ -70,6 +70,6 @@ email: 'wyxsjtuer@gmail.com'
 highlight_name: true
 ---
 
-I am Yanxuan Wu (吴焱煊). I got a Bachelor's degree in Electrical Engineering, with a minor in Finance, from Shanghai Jiao Tong University in 2023. Since then, I have been working as (1) a data scientist at Moseeker (an AI-powered Human Resource technology firm), focusing on AI tools development and data analysis (2) a research assistant for Professor Xitong Li (HEC Paris), focusing on a multi-task learning project joint with Prof. Shunyuan Zhang (Harvard Business School).
+I am Yanxuan Wu (吴焱煊). I got a Bachelor's degree in Electrical Engineering, with a minor in Finance, from Shanghai Jiao Tong University in 2023. After that, I worked as a data scientist at [Moseeker](https://www.moseeker.com/en/) (an AI-powered Human Resource technology firm), focusing on AI tools development and data analysis. In parallel, I have been working as a research assistant for [Prof.Xitong Li](https://sites.google.com/view/xitong-li/home) (HEC, Paris) and [Prof.Shunyuan Zhang](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1175206) (Harvard Business School).
 
 {{< icon name="download" pack="fas" >}} Download my [resumé](https://drive.google.com/file/d/1GqhSUqNZsj72OvnhNMmE-Bw4lSWXXUnl/view?usp=drive_link).
