@@ -14,9 +14,7 @@ superuser: true
    # url: https://en.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests span various topics in economics and design of technology, focusing on human-technology interaction and technology innovation process. I use methodologies including data analysis, mathematical modeling, machine learning, experimental design, and simulation. Most recently, I work on: 
-- AI hiring, focusing on the use and design of AI interview;
-- Economics of technology market, focusing on open-source community’s role in innovation.
+bio: My research interests span various topics in economics and design of technology, focusing on human-technology interaction and technology innovation process. I use methodologies including data analysis, mathematical modeling, machine learning, experimental design, and simulation. Most recently, I work on AI hiring and open-source innovation.
 
 # Interests to show in About widget
 interests:
