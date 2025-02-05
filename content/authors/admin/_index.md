@@ -73,4 +73,4 @@ highlight_name: true
 
 I am Yanxuan Wu (吴焱煊). I got a Bachelor's degree in Electrical Engineering, with a minor in Finance, from Shanghai Jiao Tong University in 2023. Since then, I have been working as (1) a data scientist at Moseeker (an AI-powered Human Resource technology firm), focusing on AI tools development and data analysis (2) a research assistant for Professor Xitong Li (HEC Paris), focusing on a multi-task learning project joint with Prof. Shunyuan Zhang (Harvard Business School).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "content/Resume - IS - Yanxuan Wu.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "content/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
