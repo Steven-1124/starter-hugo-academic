@@ -30,7 +30,7 @@ experience:
     location: Shanghai, China
     date_start: '2023-10-01'
     date_end: '2024-10-01'
-    description: |4-
+    description: |2-
       * Designed an interview question generation algorithm, by combining knowledge graph and LLM, improving the depth and diversity of interview questions, smoothing the communication, and balancing the job requirements and the candidate’s experience.
       * Built an automated resume parsing system, based on multiple LLM agents (i.e., GPT and Deepseek) and text processing tools (i.e., Tika and pdfplumber), achieving over 90% accuracy across diverse formats of resumes such as image-based PDFs and multilingual resumes.
       * Demonstrated the effectiveness and potential socioeconomic biases of AI evaluation on candidates’ interview performance by using multiple methods such as hypothesis testing and regression to analyze the campus recruitment data.
