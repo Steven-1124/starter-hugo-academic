@@ -11,6 +11,5 @@ design:
   columns: '1'
 ---
 
-# Seminars and Talks
-- Management Talks Series, Antai College of Economics and Management, SJTU
-- Econ.talks.2022, Antai College of Economics and Management, SJTU
+# Seminars I Attended Frequently
+- Information Systems Talks Series, Antai College of Economics and Management, SJTU
