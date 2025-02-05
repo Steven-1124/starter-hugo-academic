@@ -23,7 +23,7 @@ main:
     url: '#honors_and_awards'
     weight: 40
   - name: Activities
-    url: '#activities_and_leaderships'
+    url: '#activities'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
