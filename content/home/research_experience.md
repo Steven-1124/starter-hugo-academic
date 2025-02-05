@@ -34,8 +34,8 @@ experience:
       <font size='4'>"Influencer Selection with MMOE" with [_Prof. Shunyuan Zhang_](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1175206) from Harvard Business School and [_Prof. Xitong Li_](https://sites.google.com/view/xitong-li/home) from HEC, Paris.</font>
        -	Improved Multi-Gate Mixture-of-Experts (MMOE) algorithm, based on the incentive mechanism of influencer behavior and interactions between marketing goals (reputation, revenue, acceptance), increasing the revenue prediction performance by over 20%.
        -	Explored the underlying mechanisms of multi-task learning models, based on literatures and regression analysis, identifying model-relevant factors such as the gating mechanism, data-relevant factors such as data sparsity, and feature-relevant factors such as latent relevance.
-      
-       
+       -	Embedded dynamic weighting algorithm (GradNorm) into MMOE to dynamically tune the weights of different tasks during the training process, increasing the model performance by over 200% over a highly unbalanced and sparse dataset.
+       -	Examined topic modeling algorithms (BerTopic, LDA etc.), implemented multimodal BerTopic model to cluster millions of posts (images and texts), optimized the topic representation, achieving a balanced performance on different metrics (coherence, topic overlap etc.).
 
 
   - title: Image Process and Classification (Machine Learning)
