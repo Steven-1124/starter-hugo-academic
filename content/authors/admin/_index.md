@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yanxuan WU (Steve)
+title: Yanxuan Wu
 
 # Is this the primary user of the site?
 superuser: true
