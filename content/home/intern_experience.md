@@ -23,19 +23,6 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
- - title: Moseeker 
-    company: Data Scientist, AI Interview Team
-    # company_url: 'https://www.risingwave-labs.com/'
-    # company_logo: rwicon
-    location: Shanghai, China
-    date_start: '2023-10-01'
-    date_end: '2024-10-01'
-    description: |2-
-      * Designed an interview question generation algorithm, by combining knowledge graph and LLM, improving the depth and diversity of interview questions, smoothing the communication, and balancing the job requirements and the candidate’s experience.
-      * Built an automated resume parsing system, based on multiple LLM agents (i.e., GPT and Deepseek) and text processing tools (i.e., Tika and pdfplumber), achieving over 90% accuracy across diverse formats of resumes such as image-based PDFs and multilingual resumes.
-      * Demonstrated the effectiveness and potential socioeconomic biases of AI evaluation on candidates’ interview performance by using multiple methods such as hypothesis testing and regression to analyze the campus recruitment data.
-      * Examined millions of job posts and applications to illustrate and visualize the talent trends from multiple aspects such as talent flows across job types and cities and most popular skills.
-
   - title: Guo Sheng Securities
     company: Analyst intern, Electrical Engineering and New Energy Department
     # company_url: 'https://dynamics.microsoft.com/en-us/'
