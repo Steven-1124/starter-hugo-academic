@@ -12,8 +12,5 @@ design:
 ---
 
 # Seminars and Talks
-- HK Theory seminars, CUHK-HKU-HKUST
-- Virtual East Asia Experimental and Behavioral Economics Seminar Series
-- Young Scholar Seminar Series, Rotman School of Management, University of Toronto
 - Management Talks Series, Antai College of Economics and Management, SJTU
 - Econ.talks.2022, Antai College of Economics and Management, SJTU
