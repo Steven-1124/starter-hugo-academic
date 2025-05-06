@@ -19,6 +19,5 @@ design:
 ## 2020
 -	Honored Student in Shanghai Jiao Tong University (Univesity, Top 2%)
 - Ren Yuan Electric Scholarship (University, Top 3%)
-- Excellent League Member of Shanghai Jiao Tong university (Univesity, Top 3%)
 - Advanced Social Practice Individual in Shanghai Jiao Tong University (University, Top 1%)
 - Honorable Mention in the Mathematical Contest in Modeling (International, Top 10%)
