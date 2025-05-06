@@ -12,4 +12,4 @@ design:
 ---
 
 # Seminars I Attended Frequently
-- Information Systems Talks Series, Antai College of Economics and Management, SJTU
+- Talks Series, Antai College of Economics and Management, SJTU
