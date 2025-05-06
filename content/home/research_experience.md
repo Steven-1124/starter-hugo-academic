@@ -23,7 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-
+- title: Influencer Marketing (Behavioral)
+    # company: advised by [_Prof. Shunyuan Zhang_](https://www.acem.sjtu.edu.cn/en/faculty/zhouzucheng.html) from [Shanghai Jiao Tong University](https://www.acem.sjtu.edu.cn/en/)
+    # company_url: ''
+    # company_logo: sjtu
+    location: Remote
+    date_start: '2023-06-01'
+    # date_end: '2025-02-06'
+    description: |2-
+      <font size='4'>Research Project with [_Prof. Shunyuan Zhang_](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1175206) from Harvard Business School
+       -	Interviewed with platforma, brands, and influencers about their perspectives on the marketing activities after and before a campaign.
+       -	Reviewed literature and summerized relevant theories to help explain the goal alignment between platform, influencer, and brand.
+       -	Coded the interview data and summerized insights from it, leading to a new theory about firm-influencer match with platform playing a key role as mediator.
 
   - title: Corporate Social Responsibility (Behavioral)
     # company: advised by [_Pro. Colin Tan_](https://www.comp.nus.edu.sg/cs/people/ctank/) from [National University of Singapore](https://www.comp.nus.edu.sg/)
