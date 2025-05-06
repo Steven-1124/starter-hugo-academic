@@ -22,7 +22,7 @@ feature:
     icon_pack: fab
     name: Python
   - description: 100%
-    icon: Matlab
+    icon: Survey Design
     icon_pack: fas
     name: Statistics
   - description: 10%
