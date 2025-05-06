@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Influencer Marketing (Empirical, Machine Learning)
+  - title: Influencer Marketing (Behavioral)
     # company: advised by [_Prof. Shunyuan Zhang_](https://www.acem.sjtu.edu.cn/en/faculty/zhouzucheng.html) from [Shanghai Jiao Tong University](https://www.acem.sjtu.edu.cn/en/)
     # company_url: ''
     # company_logo: sjtu
@@ -31,24 +31,20 @@ experience:
     date_start: '2023-06-01'
     # date_end: '2025-02-06'
     description: |2-
-      <font size='4'>"Influencer Selection with MMOE" with [_Prof. Shunyuan Zhang_](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1175206) from Harvard Business School and [_Prof. Xitong Li_](https://sites.google.com/view/xitong-li/home) from HEC, Paris.</font>
-       -	Improved Multi-Gate Mixture-of-Experts (MMOE) algorithm, based on the incentive mechanism of influencer behavior and interactions between marketing goals (reputation, revenue, acceptance), increasing the revenue prediction performance by over 20%.
-       -	Explored the underlying mechanisms of multi-task learning models, based on literatures and regression analysis, identifying model-relevant factors such as the gating mechanism, data-relevant factors such as data sparsity, and feature-relevant factors such as latent relevance.
-       -	Embedded dynamic weighting algorithm (GradNorm) into MMOE to dynamically tune the weights of different tasks during the training process, increasing the model performance by over 200% over a highly unbalanced and sparse dataset.
-       -	Examined topic modeling algorithms (BerTopic, LDA etc.), implemented multimodal BerTopic model to cluster millions of posts (images and texts), optimized the topic representation, achieving a balanced performance on different metrics (coherence, topic overlap etc.).
+      <font size='4'>Research Project with [_Prof. Shunyuan Zhang_](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1175206) from Harvard Business School
+       -	Interviewed with platforma, brands, and influencers about their perspectives on the marketing activities after and before a campaign.
+       -	Reviewed literature and summerized relevant theories to help explain the goal alignment between platform, influencer, and brand.
+       -	Coded the interview data and summerized insights from it, leading to a new theory about firm-influencer match with platform playing a key role as mediator.
 
-
-  - title: Image Process and Classification (Machine Learning)
+  - title: Corporate Social Responsibility (Behavioral)
     # company: advised by [_Pro. Colin Tan_](https://www.comp.nus.edu.sg/cs/people/ctank/) from [National University of Singapore](https://www.comp.nus.edu.sg/)
-    location: Singapore
+    location: Shanghai
     # company_logo: NUS
-    date_start: '2022-06-01'
+    date_start: '2021-84-01'
     date_end: '2022-08-01'
     description: |2-
-      <font size='4'>"Drowsy Driving Detection under Different Circumstances with Convolutional Neural Networks (CNN)" with [_Pro. Colin Tan_](https://www.comp.nus.edu.sg/cs/people/ctank/) from NUS</font>
-        - Developed the algorithm based on CNN to detect drowsiness with nearly 95% accuracy under different circumstances such as dark or bright.
-        - Built the backend classification server that performed the algorithm to handle the data and communicated data between detectors and actuators.
-        - Transferred data over Message Queueing Telemetry Transport (MQTT), RESTful APIs and stored in SQL databases.
-design:
+      <font size='4'> Undergraduate Project with [_Prof. Zucheng Zhou_]((https://acem.sjtu.edu.cn/en/faculty/zhouzucheng.html)) from SJTU</font>
+        - Collected data collected from 1700+ MBA students to understand the differences in people’s evaluation of the external environment.
+        - Reviewed and learned the concepts and history of corporate social responsiblity, generating a 5000-word report.
   columns: '2'
 ---
