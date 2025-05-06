@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  title: Influencer Marketing (Behavioral)
+- title: Influencer Marketing (Behavioral)
     # company: advised by [_Prof. Shunyuan Zhang_](https://www.acem.sjtu.edu.cn/en/faculty/zhouzucheng.html) from [Shanghai Jiao Tong University](https://www.acem.sjtu.edu.cn/en/)
     # company_url: ''
     # company_logo: sjtu
