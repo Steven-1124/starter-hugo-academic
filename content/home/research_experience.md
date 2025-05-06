@@ -21,9 +21,9 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
+# experience:
 
-- title: Influencer Marketing (Behavioral)
+ - title: Influencer Marketing (Behavioral)
     # company: advised by [_Prof. Shunyuan Zhang_](https://www.acem.sjtu.edu.cn/en/faculty/zhouzucheng.html) from [Shanghai Jiao Tong University](https://www.acem.sjtu.edu.cn/en/)
     # company_url: ''
     # company_logo: sjtu
