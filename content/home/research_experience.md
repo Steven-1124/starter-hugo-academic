@@ -43,7 +43,7 @@ experience:
     date_start: '2021-84-01'
     date_end: '2022-08-01'
     description: |2-
-      <font size='4'> Undergraduate Project with [_Prof. Zucheng Zhou_]((https://acem.sjtu.edu.cn/en/faculty/zhouzucheng.html)) from SJTU</font>
+      <font size='4'> Undergraduate Project with [_Prof. Zucheng Zhou_](https://acem.sjtu.edu.cn/en/faculty/zhouzucheng.html) from SJTU</font>
         - Collected data collected from 1700+ MBA students to understand the differences in people’s evaluation of the external environment.
         - Reviewed and learned the concepts and history of corporate social responsiblity, generating a 5000-word report.
   columns: '2'
