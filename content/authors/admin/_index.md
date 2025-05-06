@@ -14,13 +14,13 @@ superuser: true
    # url: https://en.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests span various topics in economics and design of technology, focusing on human-technology interaction and technology innovation process. I use methodologies including data analysis, mathematical modeling, machine learning, experimental design, and simulation. Most recently, I work on AI hiring and open-source innovation.
+bio: My research interests span various topics in economics and management. I use methodologies including interview, mathematical modeling, experimental design, and survey. Most recently, I work on Platform Responsiblity and Social Influence.
 
 # Interests to show in About widget
 interests:
-  - Economics of AI
-  - AI in Human Resource Management
-  - Open-source Innovation
+  - Economics 
+  - Platform Responsibility
+  - Social Welfare
 
 # Education to show in About widget
 education:
@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:wyxsjtuer@gmail.com
+    link: mailto:steventobesteven@qq.com
   # - icon: twitter
     # icon_pack: fab
     # link: https://twitter.com/GeorgeCushen
@@ -52,24 +52,25 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yanxuan-wu
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/stevenwu0201?r=nametag
+  # - icon: instagram
+    # icon_pack: fab
+    # link: https://www.instagram.com/stevenwu0201?r=nametag
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# To use: copy [Resume.pdf](https://github.com/user-attachments/files/20052066/Resume.pdf)
+your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #  icon_pack: ai
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'wyxsjtuer@gmail.com'
+email: 'steventobesteven@qq.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am Yanxuan Wu (吴焱煊). I got a Bachelor's degree in Electrical Engineering, with a minor in Finance, from Shanghai Jiao Tong University in 2023. After that, I worked as a data scientist at [Moseeker](https://www.moseeker.com/en/) (an AI-powered Human Resource technology firm), focusing on AI tools development and data analysis. In parallel, I have been working as a research assistant for [Prof.Xitong Li](https://sites.google.com/view/xitong-li/home) (HEC, Paris) and [Prof.Shunyuan Zhang](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1175206) (Harvard Business School).
+I am Yanxuan Wu (吴焱煊). I got a Bachelor's degree in Electrical Engineering, with a minor in Finance, from Shanghai Jiao Tong University in 2023. After that, I worked as a Tutor at [NewChannel](https://www.xhd.cn/topic/about/index.html), focusing on 1v1 [IELTS](https://ielts.org/) Teaching. In parallel, I have been working on research project with [Prof.Shunyuan Zhang](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1175206) (Harvard Business School).
 
 {{< icon name="download" pack="fas" >}} Download my [resumé](https://drive.google.com/file/d/1GqhSUqNZsj72OvnhNMmE-Bw4lSWXXUnl/view?usp=drive_link).
