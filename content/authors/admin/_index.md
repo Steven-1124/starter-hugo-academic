@@ -58,7 +58,7 @@ social:
 
 # Link to a PDF of your resume/CV.
 # To use: copy [Resume.pdf](https://github.com/user-attachments/files/20052066/Resume.pdf)
-your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #  icon_pack: ai
